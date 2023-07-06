@@ -1,1 +1,38 @@
+{
+  "name": "kayiaksharam",
+  "version": "1.0.0-rc.1",
+  "description": "Assignment simplifier",
+  "main": "js/app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "serve .",
+    "devStart": "nodemon server.js"
+  },
+  "engines": {
+    "node": "12.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afnanplk/kayiaksharam.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "serve": "^11.3.2"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "prerender-node": "^3.2.5",
+    "tesseract.js": "^2.1.4"
+  }
+}
+
+
 
