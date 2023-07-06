@@ -1,5 +1,5 @@
 {
-  "name": "handwriter",
+  "name": "kayiaksharam",
   "version": "1.0.0-rc.1",
   "description": "Assignment simplifier",
   "main": "js/app.js",
@@ -15,10 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afnanplk/handwriter.git"
+    "url": "git+https://github.com/afnanplk/kayiaksharam.git"
   },
   "keywords": [],
-  "author": "Sarvesh Patil <sarveshp273@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.6",
